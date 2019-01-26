@@ -15,6 +15,7 @@ Make sure you have big enough sheets of 3mm material to cut the design from and 
 
 
 > (*1) 35 mm focal length lenses can also be found in single use cameras, available anywhere like [Kruidvat](https://www.kruidvat.nl/agfaphoto-lebox-flash-camera/p/2224083) EUR 5.89 or you could simply ask a shop to save the used cameras for you.
+
 > (*2) lenses may have a different width then the lens holders in the 3D design, check & adapt before 3D printing. 
 
 **Alternatives**
