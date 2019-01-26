@@ -18,6 +18,9 @@ Make sure you have big enough sheets of 3mm material to cut the design from and 
 
 > (*2) lenses may have a different width then the lens holders in the 3D design, check & adapt before 3D printing. 
 
+*Estimate total:* EUR 17.15
+
+
 **Alternatives**
 
 * You can often find sweet deals for microscope objectives on eBay
